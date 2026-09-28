@@ -1,0 +1,10 @@
+{
+  "description": "Intern Casa is an interactive internship marketplace for students to discover, apply, and track internships while enhancing their profiles and preparation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
